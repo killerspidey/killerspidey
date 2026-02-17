@@ -48,7 +48,7 @@ A Python-based security tool designed to detect common web application vulnerabi
 - Automates URL parameter testing
 - Categorizes vulnerabilities
 
-🔗 [View Project](https://github.com/killerspidey)
+🔗 [View Project](https://github.com/killerspidey/web-application-vulnerability-scanner.git)
 
 ---
 
