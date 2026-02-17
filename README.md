@@ -1,54 +1,80 @@
-# 👋 Hi, I'm Aarohan Shyam
-
-🎓 B.Tech CSE (Cyber Security)  
-🔐 Web Application Security Enthusiast  
-🐍 Python Security Tool Developer  
+<h1 align="center">Hi 👋 I'm Aarohan Shyam</h1>
+<h3 align="center">Cyber Security Student | Web Application Security | Python</h3>
 
 ---
 
-## 🚀 About Me
+## 🛡️ About Me
 
-I focus on web application security, vulnerability assessment, and secure coding practices.  
-
-I enjoy building security-focused tools and understanding real-world attack vectors aligned with OWASP Top 10.
-
----
-
-## 🛠 Technical Skills
-
-**Programming:** Python, C, C++  
-**Cybersecurity:** OWASP Top 10, Vulnerability Assessment  
-**Networking:** TCP/IP, HTTP/HTTPS, DNS Basics  
-**Security Concepts:** SQL Injection, XSS  
-**Tools:** Git, Linux, Firebase  
+- 🎓 B.Tech CSE (Cyber Security) at SRM Institute of Science and Technology
+- 🔐 Focused on Web Application Security & OWASP Top 10
+- 🐍 Building Security Tools using Python
+- 🌐 Interested in Vulnerability Assessment & Secure Coding
+- 📍 Based in India
+- 🚀 Actively seeking Cyber Security Internship opportunities
 
 ---
 
-## 🔎 Featured Project
+## 🔥 Currently Working On
 
-### Web Application Vulnerability Scanner (Python)
-
-- Detects SQL Injection & XSS patterns  
-- Automates URL parameter testing  
-- Categorizes vulnerabilities by severity  
-- Simulates basic penetration testing workflow  
+- 🛠️ Enhancing my **Web Application Vulnerability Scanner**
+- 📚 Deep diving into **SQL Injection & XSS exploitation**
+- 🧠 Strengthening Networking Fundamentals (TCP/IP, HTTP/HTTPS)
 
 ---
 
-## 🎯 Current Focus
+## 🧰 Tech Stack
 
-- Strengthening Web Security Fundamentals  
-- Exploring Offensive Security Techniques  
-- Building Security Automation Tools  
+### 💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css" />
+</p>
+
+### 🔐 Cyber & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github" />
+</p>
 
 ---
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aarohanshyam/)
+## 🚀 Featured Project
+
+### 🔎 Web Application Vulnerability Scanner
+
+A Python-based security tool designed to detect common web application vulnerabilities aligned with OWASP Top 10.
+
+**Features:**
+- Detects SQL Injection patterns
+- Detects Cross-Site Scripting (XSS)
+- Automates URL parameter testing
+- Categorizes vulnerabilities
+
+🔗 [View Project](https://github.com/killerspidey)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Aarohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=killerspidey&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=killerspidey&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=killerspidey&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=killerspidey&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="mailto:aarohanshyam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aarohanshyam/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ *Building secure systems, one vulnerability at a time.*
