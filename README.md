@@ -36,7 +36,7 @@ Tony Stark-style always-on voice assistant with a frameless PyQt6 HUD and wake-w
 - **20 modular skills** — system control, screen reader, process manager, code execution, real-time web search, and more
 - Packaged as a standalone `.exe` via PyInstaller — no Python required on recipient machine
 
-🔗 [View Repository](https://github.com/killerspidey/J.A.R.V.I.S.)
+🔗 [View Repository](https://github.com/killerspidey/jarvis)
 
 ---
 
@@ -132,7 +132,7 @@ Python-based security scanner targeting OWASP Top 10 vulnerabilities.
 
 Open to **cybersecurity internship opportunities** — web application security, penetration testing, network security, or security engineering roles.
 
-Reach out via [Email](mailto:aarohanshyam@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aarohanshyam/) · [Portfolio](https://aarohan-portfolio.netlify.app)
+Reach out via [email](mailto:aarohanshyam@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aarohanshyam/) · [Portfolio](https://aarohan-portfolio.netlify.app)
 
 <div align="center">
 
