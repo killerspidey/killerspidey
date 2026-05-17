@@ -121,8 +121,9 @@ Python-based security scanner targeting OWASP Top 10 vulnerabilities.
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=killerspidey&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/killerspidey)
 [![GitHub Streak](https://streak-stats.demolab.com?user=killerspidey&theme=tokyonight&hide_border=true)](https://github.com/killerspidey)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=killerspidey&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/killerspidey)
 
 </div>
 
