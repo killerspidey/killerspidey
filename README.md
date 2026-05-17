@@ -122,7 +122,7 @@ Python-based security scanner targeting OWASP Top 10 vulnerabilities.
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=killerspidey&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/killerspidey)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=killerspidey&theme=tokyonight&hide_border=true)](https://github.com/killerspidey)
+[![GitHub Streak](https://streak-stats.demolab.com?user=killerspidey&theme=tokyonight&hide_border=true)](https://github.com/killerspidey)
 
 </div>
 
@@ -132,7 +132,7 @@ Python-based security scanner targeting OWASP Top 10 vulnerabilities.
 
 Open to **cybersecurity internship opportunities** — web application security, penetration testing, network security, or security engineering roles.
 
-Reach out via [email](mailto:aarohanshyam@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aarohanshyam/) · [Portfolio](https://aarohan-portfolio.netlify.app)
+Reach out via [Email](mailto:aarohanshyam@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aarohanshyam/) · [Portfolio](https://aarohan-portfolio.netlify.app)
 
 <div align="center">
 
