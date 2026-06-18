@@ -44,7 +44,7 @@ Fully operational 5-agent AI network with a single-command launcher, shared RAG 
 - Single `start_network.py` entry point manages all 5 MCP/SSE sub-agents as monitored subprocesses; supports headless mode and per-agent selective launch
 - webrtcvad VAD pipeline with energy-threshold fallback — sub-second voice response on 100% free-tier infrastructure
 
-🔗 [View Repository](https://github.com/killerspidey/J.A.R.V.I.S.)
+🔗 [View Repository](https://github.com/killerspidey/Stark-Network)
 
 ---
 
