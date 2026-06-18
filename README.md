@@ -2,7 +2,7 @@
 
 # Aarohan Shyam
 
-### Cybersecurity Student · Offensive Security & Python Tooling · Building J.A.R.V.I.S.
+### Cybersecurity Student · Offensive Security & Python Tooling · Building the Stark Network
 
 [![Email](https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarohanshyam@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarohanshyam/)
@@ -18,7 +18,7 @@
 
 B.Tech CSE (Cyber Security) student at SRM IST Delhi NCR. I build Python security tooling and AI systems that work in real environments — validated against intentionally vulnerable targets, not just in theory.
 
-Currently building **J.A.R.V.I.S.** — a 5-agent MCU-inspired AI system with a PyQt6 HUD, wake-word detection, and a multi-agent architecture spanning intel gathering, communications, OSINT research, and security automation. On the security side, my tools detect ARP spoofing, port scans, DNS tunnelling, and OWASP Top 10 vulnerabilities — tested in a home lab against Metasploitable 2.
+Currently building the **Stark Network** — a fully operational 5-agent MCU-inspired AI system with LLM-based intent routing, shared RAG memory (ChromaDB), and a single-command launcher. Agents cover intel, communications, OSINT/recon, and security automation. On the security side, my tools detect ARP spoofing, port scans, DNS tunnelling, and OWASP Top 10 vulnerabilities — tested in a home lab against Metasploitable 2.
 
 Grinding TryHackMe and HackTheBox. Working toward **eJPT**. Open to cybersecurity internship opportunities.
 
@@ -26,22 +26,23 @@ Grinding TryHackMe and HackTheBox. Working toward **eJPT**. Open to cybersecurit
 
 ## 🚀 Featured Projects
 
-### 🤖 J.A.R.V.I.S. — MCU-Inspired Multi-Agent AI System
-> Python · PyQt6 · Groq · Gemini API · Anthropic API · FastMCP · LiveKit · Whisper · SQLite · PyInstaller
+### 🤖 Stark Network — MCU-Inspired 5-Agent AI System
+> Python · PyQt6 · Groq LLaMA-3.3-70b · FastMCP/SSE · LiveKit · Whisper · ChromaDB · SQLite · Playwright · PyInstaller
 
-Tony Stark-style always-on voice assistant orchestrating a 5-agent specialist network.
+Fully operational 5-agent AI network with a single-command launcher, shared RAG memory, and LLM-based multi-agent intent routing.
 
 | Agent | Role | Stack |
 |---|---|---|
 | **J.A.R.V.I.S.** | Orchestrator · Voice UI · Tool Dispatch | PyQt6 HUD · Whisper STT · webrtcvad · Groq LLaMA-3.3-70b · SQLite |
 | **F.R.I.D.A.Y.** | Intel · News · Weather · Live Markets | FastMCP/SSE · LiveKit · Gemini 2.5 Flash · Sarvam STT |
 | **V.E.R.O.N.I.C.A.** | Comms · Gmail · Outlook · Slack · Telegram | OAuth 2.0 · AI Inbox Triage |
-| **E.D.I.T.H.** | OSINT · Research · Web Crawling *(in dev)* | Serper · Firecrawl · Qdrant Vector Store |
-| **U.L.T.R.O.N** | Security · Automation · Log Monitoring *(in dev)* | Playwright · Nmap · System Telemetry |
+| **E.D.I.T.H.** | OSINT · Research · Fact-Check · Domain Intel | Serper · Firecrawl · WHOIS · DNS · Shodan · ChromaDB |
+| **U.L.T.R.O.N.** | Security · Automation · Shell Exec · Log Monitor | Playwright · Async Port Scanner · APScheduler · psutil |
 
-- Prompt-based tool dispatch loop (up to 5 iterations/query) with Groq rate-limit auto-fallback and persistent SQLite cross-session memory
-- Sub-second voice response latency on 100% free-tier infrastructure
-- Packaged as a cross-platform standalone `.exe` via PyInstaller — no Python required
+- **Shared RAG memory** — ChromaDB + SQLite with sentence-transformer embeddings; memories persist across sessions and are retrieved semantically at query time
+- **LLM-based intent routing** via Groq LLaMA-3.3-70b — multi-agent query chaining supported (e.g. *"Research Tesla and email the summary to John"* → EDITH → VERONICA)
+- Single `start_network.py` entry point manages all 5 MCP/SSE sub-agents as monitored subprocesses; supports headless mode and per-agent selective launch
+- webrtcvad VAD pipeline with energy-threshold fallback — sub-second voice response on 100% free-tier infrastructure
 
 🔗 [View Repository](https://github.com/killerspidey/J.A.R.V.I.S.)
 
@@ -103,6 +104,8 @@ Python-based security scanner targeting OWASP Top 10 vulnerabilities.
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
 ![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=flat-square&logoColor=white)
 ![FastMCP](https://img.shields.io/badge/FastMCP-6C3483?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 **Security Concepts**
 
